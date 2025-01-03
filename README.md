@@ -1,3 +1,7 @@
+현재 서버, 프론트, 크롤링 리포지토리 하나로 통합했음 (2025)
+아래 링크 확인 
+https://github.com/hangyeoldora/sdp3-lecture-project
+
 ## OpenAPI와 크롤링을 활용한 통합 봉사활동 정보 제공 시스템 구현
 
 >github 레포 관리를 위해 2022년 작성한 기본 소스 코드는 수정하지 않고 README나 환경 변수 관련 파일들을 편집함
